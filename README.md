@@ -21,7 +21,7 @@ The workbook was attached by the student in this chat. Confirm that this exact f
 The assignment requires student-written, AI-free report text. The editable report is a working scaffold with factual outputs and writing prompts. Replace prompts with your own explanation, run and explain the code yourself, and follow your instructor's policy for AI-assisted work.
 Proposed project title for the course form: Cognitive Status Classification Using OASIS-1 Clinical and MRI Measures. The form has not been submitted.
 
-#Run the project
+Run the project
 
 From this folder, with R 4.3.2 and Python 3.12 installed:
 
